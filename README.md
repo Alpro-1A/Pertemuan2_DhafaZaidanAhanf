@@ -1,2 +1,2 @@
 # Praktikum2_DhafaZaidanAhnaf
-Tugas Praktikum Pertemuan ke-2
+Berkas README.md nya kepencet jadi gatau mau kasih penjelasan kode apa yang pasti ini tugas praktikum pertemuan ke-2
